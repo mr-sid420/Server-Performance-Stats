@@ -1,4 +1,4 @@
-Project URL : https://github.com/mr-sid420/Server-Performance-Stats.git
+Project URL : https://roadmap.sh/projects/server-stats
 
 # Server-Performance-Stats:
 script **server-stats.sh** to analyse server performance stats. The script can read and monitor below the stats in linux server:
